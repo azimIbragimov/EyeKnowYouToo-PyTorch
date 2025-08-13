@@ -187,6 +187,14 @@ We thank Dillon Lohr and Oleg Komogortsev for making their original implementati
   pages={3151-3164},
   keywords={Authentication;Biometrics (access control);Convolution;Transformers;Performance evaluation;Behavioral sciences;Task analysis;Eye tracking;user authentication;metric learning;template aging;permanence;signal quality},
   doi={10.1109/TIFS.2022.3201369}}
+
+@article{ibragimov2025toward,
+  title={Toward Practical Privacy in XR: Empirical Analysis of Multimodal Anonymization Mechanisms},
+  author={Ibragimov, Azim and Wilson, Ethan and Butler, Kevin RB and Jain, Eakta},
+  journal={arXiv preprint arXiv:2506.13882},
+  year={2025}
+}
+
 ```
 
 
